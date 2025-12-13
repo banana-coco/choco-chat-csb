@@ -1,5 +1,5 @@
 const { Pool } = require('pg');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const crypto = require('crypto');
 
 const MAX_HISTORY = 500;
