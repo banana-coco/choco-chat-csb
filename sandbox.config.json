@@ -1,5 +1,5 @@
 {
-  "template": "node-express-server",
+  "template": "node",
   "container": {
     "port": 5000,
     "startScript": "start",
