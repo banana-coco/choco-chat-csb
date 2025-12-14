@@ -28,7 +28,7 @@ let useDatabase = false;
 let dbError = null;
 
 async function initDatabase() {
-  const databaseUrl = 'postgresql://chiyokochatnometsusebao_cun_user:NYhH7zIKk86tO3eXdyFRJlEmpNly2aZv@dpg-d4o4mn24d50c73ab04gg-a.oregon-postgres.render.com/chiyokochatnometsusebao_cun';
+  const databaseUrl = 'postgresql://chiyokochiyatsuto_user:2gv0p9Bk8gnaC9JeBhJTHj0G1r19cwh7@dpg-d4v8glnpm1nc73biu36g-a/chiyokochiyatsuto';
 
   try {
     pool = new Pool({
