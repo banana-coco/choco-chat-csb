@@ -4,7 +4,7 @@ const crypto = require('crypto');
 
 const MAX_HISTORY = 500;
 const SALT_ROUNDS = 10;
-const ADMIN_PASSWORD = 'choco1234banana';
+const ADMIN_PASSWORD = '???';
 const ADMIN_USERS = ['ばなな', 'チョコわかめ'];
 const EXTRA_ADMIN_PASSWORD = 'a0966a';
 
